@@ -20,7 +20,7 @@ npm run start.
 ```console
 http://localhost:3000
 ```
-*To view the application**
+*To view the application*
 ## Support and contact details
 If you have any questions, reach out to me on [u.k.maryse@gmail.com]
 ### License

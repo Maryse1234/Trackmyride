@@ -18,8 +18,9 @@ npm run start.
 ```
 * Open your browser and navigate to
 ```console
-http://localhost:3000  **to view the application**
+http://localhost:3000
 ```
+*To view the application**
 ## Support and contact details
 If you have any questions, reach out to me on [u.k.maryse@gmail.com]
 ### License
